@@ -122,7 +122,7 @@ const Homepage = () => {
                             </div>
                             <div className="latest mb-5">
                                 <div className="flex justify-between items-center">
-                                    <Title>Update Terbaru</Title>
+                                    <Title>Update Terbaru 😋</Title>
                                     <a href="/ongoing/page/1"className="text-white font-semibold transition-all hover:text-kumanime font-poppins text-xs md:text-sm">Lihat Semua {">>"}</a>
                                 </div>
                                 <Cards>

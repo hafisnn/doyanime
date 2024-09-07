@@ -14,7 +14,7 @@ const Error = () => {
                 <div className="text-center">
                     <img src="https://media.tenor.com/RY9NX67klacAAAAi/sad-cute.gif" alt="" className="m-auto w-2/3" />
                     <p className="py-6 text-white">Oops! We Can't Find The Page</p>
-                    <Link to="/" className="bg-kumanime rounded-full py-2 px-8 text-sm">{"<<"} Back To HomePage</Link>
+                    <Link to="/" className="bg-kumanime rounded-full py-2 px-8 text-sm">{"<<"} Kembali cik 😋</Link>
                 </div>
             </div>
             <Footer />
